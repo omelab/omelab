@@ -1,6 +1,6 @@
-Hi everyone, 
-I am Abu Bakar Siddique, founder of Omelab, and Software Engineer of Apsis Solutions Ltd. 
-I have 5 years plus experience in web technology like ERP solutions, HRM, CRM, Ecommerce Platfrm 
+Hi everyone, </br>
+I am Abu Bakar Siddique, founder of Omelab, and Software Engineer of Apsis Solutions Ltd. </br>
+I have 5 years plus experience in web technology like ERP solutions, HRM, CRM, Ecommerce Platfrm </br>
 and Mobile applications development.
 
 👀 I am interested to help any one to grow my knowledge and experience
